@@ -20,17 +20,17 @@ AI-powered nutrition tracking app built for India — scan any food, get instant
 
 ## The problem
 
-Most nutrition trackers assume the world eats packaged, barcoded, single-ingredient food — scan a barcode, get the label. That model breaks down for home-cooked and mixed meals, which is most of what people in India actually eat. The alternative most apps fall back on is manual search-and-log, which is slow enough that people quit within days. On top of that, a single "calories in" number rarely means the same thing to two different people — someone cutting weight and someone trying to gain muscle need the same plate scored differently.
+Most people don't actually know what they're eating — whether that's a packaged product picked up while shopping or a home-cooked meal on their plate. That gap leads to worse choices: buying the wrong packaged product when a better one was sitting next to it, or eating something without realizing what it's doing to a specific health goal. The apps that already solve this exist, but they're priced high enough that the people who'd benefit most from casual, daily use often don't bother subscribing.
 
 ## Who it's for
 
-- **Primary:** People in India trying to build a consistent nutrition-tracking habit around home-cooked and mixed meals, without wrestling with a barcode-first database.
+- **Primary:** People in India who want to make better food decisions in the moment — while grocery shopping (packaged products) or while eating (home-cooked meals) — without paying premium prices for it.
 - **Secondary:** People with a specific health goal (weight loss, muscle gain, general health) who want the same food scored differently depending on that goal.
 - **Explicitly not for:** People who need lab-grade macro precision (competitive athletes, clinical nutrition management) — camera-based AI estimation trades precision for speed, and this app is built for the speed side of that trade.
 
 ## The key decision
 
-The bet: **a camera pointed at a plate is faster and more honest than a search bar**, especially for food that was never going to have a barcode in the first place. If logging a meal takes 10 seconds instead of 90, more meals actually get logged — and a tracker only creates value from meals it actually sees.
+The bet: **instant nutrition insight — for anything, packaged or home-cooked — is only valuable if it's cheap enough to use casually, every day, without a spending decision attached to it.** So the app is priced at roughly **1/4th of what comparable nutrition-tracking apps charge**, on the belief that lowering the cost barrier matters as much as lowering the friction barrier. A tool this useful shouldn't be gated behind a premium subscription most people won't commit to.
 
 ## The trade-off
 
