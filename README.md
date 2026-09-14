@@ -54,6 +54,7 @@ What that cost: it's a bet on volume over margin, made before the app has real u
 - **Social features / community feed** — cut to avoid turning a personal tracking tool into a content platform before the core scanning loop is proven.
 - **Wearable integration** — no Google Fit / wearable sync yet; steps and water are logged manually for now.
 - **Offline mode** — every scan needs the Gemini API, so there's no offline fallback; accepted as a v1 constraint of the camera-first bet.
+- **Healthier-alternative suggestions** — showing a better substitute when you scan something (e.g. a healthier packaged option nearby, or a lighter variant of a dish) is planned for a future version, not v1. It's cut for now because it needs its own reliable comparison logic — recommending an alternative is only useful if the app is confident the swap is actually better for that person's goal, and that's a step beyond just identifying and scoring the one food in front of the camera. Shipping accurate single-item recognition first, then building trust in that, before adding a second AI-driven judgment call on top of it.
 
 ## Tech Stack
 
