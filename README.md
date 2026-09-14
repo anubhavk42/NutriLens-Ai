@@ -30,13 +30,13 @@ Most people don't actually know what they're eating — whether that's a package
 
 ## The key decision
 
-The bet: **instant nutrition insight — for anything, packaged or home-cooked — is only valuable if it's cheap enough to use casually, every day, without a spending decision attached to it.** So the app is priced at roughly **1/4th of what comparable nutrition-tracking apps charge**, on the belief that lowering the cost barrier matters as much as lowering the friction barrier. A tool this useful shouldn't be gated behind a premium subscription most people won't commit to.
+The bet: **instant nutrition insight — for anything, packaged or home-cooked — is only valuable if it's cheap enough to use casually, every day, without a spending decision attached to it.** So the app is priced at roughly **half of what comparable nutrition-tracking apps charge**, on the belief that lowering the cost barrier matters as much as lowering the friction barrier. A tool this useful shouldn't be gated behind a premium subscription most people won't commit to.
 
 ## The trade-off
 
-The hard choice was going camera-first (Gemini 2.5 Flash vision) instead of a barcode/database-driven approach like MyFitnessPal. The alternative rejected: a large packaged-food barcode database, which is more precise for branded items but does nothing for a home-cooked thali.
+The hard choice was pricing at half of what competitors charge, instead of matching the market rate like every other nutrition-tracking app. The alternative rejected: price it like everyone else, protect margin from day one, and compete purely on features.
 
-What that cost: AI estimation is inherently less precise than a verified nutrition label, every scan depends on a network call (no offline logging), and mixed or visually ambiguous dishes carry real misidentification risk that a barcode scan would never have.
+What that cost: it's a bet on volume over margin, made before the app has real usage data to confirm it works. Every scan still has a real, ongoing cost behind it, so pricing this low only pays off if enough people actually use it — if adoption stays small, the economics don't hold up as comfortably as they would at scale. It's an intentional bet, not a proven one yet.
 
 ## What's in v1
 
