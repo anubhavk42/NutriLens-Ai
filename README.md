@@ -5,6 +5,10 @@ AI-powered nutrition tracking app built for India — scan any food, get instant
 
 🔗 **[Try it live](https://appetize.io/app/b_3jzdfw7qtgzhgjofjz4txabdqq)** — runs in your browser, no install needed
 
+## Demo
+
+https://github.com/user-attachments/assets/056b5461-a882-4028-8e99-f3bab82895fe
+
 ## 📱 Screenshots
 
 <p align="center">
